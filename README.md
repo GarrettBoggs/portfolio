@@ -5,7 +5,7 @@
 #### By _**Garrett Boggs**_
 
 ## Description
-  _This is a basic Portfolio site that offers information about my programming skills, along with a education and interests._
+  _This is a basic Portfolio site that offers information about my programming skills, along with a education and interests. Created using HTML, CSS, and Bootstrap framework_
 
 ## Setup instruction
 
