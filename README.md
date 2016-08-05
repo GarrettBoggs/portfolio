@@ -10,7 +10,7 @@
 ## Setup instruction
 
 * _Have connection to the internet and capabilities to open a webpage_
-* _Open via the ghpages at :_
+* _Open via the ghpages at :garrettboggs.github.io/portfolio_
 
 Copyright (c) 2016 **_Garrett Boggs_**
 This software is licensed under a MIT license.
