@@ -4,11 +4,9 @@
 h1{
   text-align: center;
 }
-
 h2{
   text-align: center;
 }
-
 ul{
   text-align: center;
   list-style-type: none;
@@ -16,7 +14,6 @@ ul{
 .left{
   float: left;
 }
-
 .jumbo{
   font-size: 60px;
 }
@@ -25,13 +22,11 @@ img
   box-shadow: 0px 0px 20px #fff;
   border-radius: 25px;
 }
-
 body{
   background-color: lightgray;
   padding-top: 70px;
   font-size: 20px;
 }
-
 .hobbies p{
   text-align: justify;
   font-family: fantasy;
@@ -39,7 +34,6 @@ body{
   margin-left: 40px;
   margin-right: 40px;
 }
-
 .program p{
   font-family: serif;
   font-size: 22px;
@@ -48,26 +42,21 @@ body{
   background-color: #e6e6e6;
   border-radius: 15px;
 }
-
 ol{
   background-color: #e6e6e6;
 }
-
 .red{
   color: red;
 }
-
 @keyframes rotate {
   0% {left:0px;}
   100% {-webkit-transform: rotate(360deg);}
 }
-
 #glow:hover{
   animation-name: rotate;
   animation-duration: 4s;
   animation-iteration-count: infinite;
 }
-
 #glow{
   margin-bottom: 100px;
   position: relative;
