@@ -1,7 +1,7 @@
 .right{
   float: right;
+  border-radius: 25px;
 }
-
 h1{
   text-align: center;
 }
@@ -33,6 +33,7 @@ body{
   border: 4px solid black;
   padding: 2px;
   background-color: white;
+  border-radius: 15px;
 }
 
 ol{
@@ -41,4 +42,25 @@ ol{
 
 .red{
   color:red;
+}
+
+@keyframes example {
+  0%   {left:0px;}
+  25%  {left:200px;}
+  50%  {left:-200px;}
+  75%  {left:0px;}
+  100% {left:0px;}
+}
+
+
+#glow:hover{
+  background-color: yellow;
+}
+
+#glow{
+  margin-bottom: 100px;
+  position: relative;
+  background-color: red;
+  animation-name: example;
+  animation-duration: 4s;
 }
